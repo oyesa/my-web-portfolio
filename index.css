@@ -53,6 +53,9 @@ nav img {
 .nav-links ul li :hover::after {
   width: 100%;
 }
+.styled-words {
+  color: saddlebrown;
+}
 .text {
   width: 90%;
   color: saddlebrown;
@@ -139,4 +142,5 @@ h3 {
   margin: auto;
   text-align: center;
   padding-top: 50px;
+  color: saddlebrown;
 }
