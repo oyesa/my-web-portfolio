@@ -114,4 +114,11 @@ display: flex;
 justify-content: space-between;
 }
 
-
+.course-col {
+  flex-basis: 31%;
+  background: saddlebrown;
+  border-radius: 10px;
+  margin-bottom: 5%;
+  padding: 20px 12px;
+  box-sizing: border-box;
+}
