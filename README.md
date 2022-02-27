@@ -6,17 +6,17 @@ This is a professional website portfolio that will showcase my work to potential
 ## Setup/Installation Requirements
 * Log into https://github.com
 * Clone the repo https://github.com/oyesa/my-web-portfolio
-* Install google font - poppins
-* 
-* format
+* Add google font - poppins stylesheet link
+* Add font awesome stylesheet link 
 ## Known Bugs
 No known bugs.
 ## Technologies Used
-HTML - Google fonts,awesome fonts
+HTML - Google fonts,font awesome
 CSS
 Bootstrap
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+You can contact me on mercy.oluchina@student.moringaschool.com or @yesa on twitter in case of any questions or suggestions. Feel free to contribute to this project by forking the repo and creating a pull request. Your input will be much appreciated.
+
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*Distributed under the MIT License. *
 Copyright (c) {2022} **{Mercy Oyesa Oluchina}**
