@@ -68,8 +68,8 @@ nav img {
   font-weight: 100;
 }
 .text img {
+  max-width: 30%;
   border-radius: 50%;
-  max-width: 100%;
 }
 .text h1 {
   font-size: 62px;
