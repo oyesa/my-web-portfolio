@@ -78,10 +78,10 @@ nav img {
 .hero-btn {
   display: inline-block;
   text-decoration: none;
-  color: saddlebrown;
+  color: solid saddlebrown;
   border: 1px solid saddlebrown;
   padding: 12px 34px;
-  font-size: 13px;
+  font-size: 15px;
   background: transparent;
   position: relative;
   cursor: pointer;
@@ -91,6 +91,7 @@ border: 1px solid saddlebrown;
 background: saddlebrown;
 transition: 1s;
 }
+
 
 /*----- projects -----*/
 
@@ -120,9 +121,12 @@ justify-content: space-between;
 .projects-col {
   flex: 31%;
   background: silver;
-  height: 200px;
-  padding: 10px;
+  height: 150px;
+  padding: 20px;
   text-align: center;
+  border-radius: 25px;
+  border: 2px solid saddlebrown;
+  width: 200px; 
 }
 .container {
   display: flex;
