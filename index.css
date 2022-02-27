@@ -35,11 +35,12 @@ nav img {
   display: inline-block;
   padding: 8px 12px;
   position: relative;
+  color: saddlebrown;
 }
 .nav-links ul li a {
   color: saddlebrown;
   text-decoration: none;
-  font-size: 13px;
+  font-size: 15px;
 }
 .nav-links ul li ::after {
   content: '';
@@ -71,8 +72,8 @@ nav img {
 }
 .text p {
   margin: 10px 0 40px;
-  font-size: 14px;
-  color: ;
+  font-size: 17px;
+  color: saddlebrown;
 }
 .hero-btn {
   display: inline-block;
@@ -116,13 +117,15 @@ margin-top: 5%;
 display: flex;
 justify-content: space-between;
 }
-.course-col {
-  flex-basis: 31%;
-  background: darkolivegreen;
-  border-radius: 10px;
-  margin-bottom: 5%;
-  padding: 20px 12px;
-  box-sizing: border-box;
+.projects-col {
+  flex: 31%;
+  background: silver;
+  height: 200px;
+  padding: 10px;
+  text-align: center;
+}
+.container {
+  display: flex;
 }
 h3 {
   text-align: center;
