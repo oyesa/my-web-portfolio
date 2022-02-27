@@ -67,6 +67,9 @@ nav img {
   text-align: center;
   font-weight: 100;
 }
+.text img {
+  border-radius: 50%;
+}
 .text h1 {
   font-size: 62px;
 }
@@ -78,11 +81,11 @@ nav img {
 .hero-btn {
   display: inline-block;
   text-decoration: none;
-  color: solid saddlebrown;
   border: 1px solid saddlebrown;
   padding: 12px 34px;
   font-size: 15px;
-  background: transparent;
+  font-weight: 400;
+  color: saddlebrown;
   position: relative;
   cursor: pointer;
 }
@@ -140,9 +143,19 @@ h3 {
 /*---footer---*/
 
 .footer {
-  width: 80%;
-  margin: auto;
+  width: 100%;
   text-align: center;
-  padding-top: 50px;
+  padding-top: 30px 0;
   color: saddlebrown;
+}
+.footer h4 {
+  margin-bottom: 25px;
+  margin-top: 20px;
+  font-weight: 600;
+  color: saddlebrown;
+}
+.icons .fa {
+  margin: 0 13px;
+  cursor: pointer;
+  padding: 18px 0;
 }
